@@ -1,0 +1,16 @@
+html {
+  font-family: sans-serif;
+  font-size: 100%;
+}
+a {
+  text-decoration: none !important;
+}
+body {
+  color: #333;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei", sans-serif;
+  background: #fff;
+  min-width: 76.625rem;
+  margin: 0px;
+}
